@@ -9,12 +9,15 @@ HTML
 CSS
 JavaScript
 React JS
+
 🌱 Currently Learning
 Improving my Front-End development skills.
 Building practical projects.
 Exploring new technologies.
+
 📂 Featured Projects
 Coming soon...
+
 📫 Connect With Me
 LinkedIn: www.linkedin.com/in/abeer-keadah-01b623408
 GitHub: You're already here!
