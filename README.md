@@ -1,7 +1,9 @@
 Hi, I'm Abeer Keadah 👋
+
 Informatics Engineering Student | Front-End Developer
 I'm a Third-Year Informatics Engineering student passionate about web development and building interactive, user-friendly applications.
 I have completed a Front-End Web Development Diploma (React JS) at SEF Academy, and I'm continuously learning and improving my programming skills.
+
 💻 Tech Stack
 HTML
 CSS
